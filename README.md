@@ -5,7 +5,8 @@
 ```
 leetcode-notes/
 ├── hashmap/
-│   └── 0001-two-sum.md
+│   ├── 0001-two-sum.md
+│   └── 0383-ransom-note.md
 ├── sliding-window/
 │   └── 0003-longest-substring-without-repeating-characters.md
 ├── two-pointers/
@@ -29,6 +30,7 @@ leetcode-notes/
 | 5 | [Longest Palindromic Substring](two-pointers/0005-longest-palindromic-substring.md) | Two Pointers | Medium | 2026.03.14✅ |
 | 12 | [Integer to Roman](math-greedy/0012-integer-to-roman.md) | Math / Greedy | Medium | 2026.03.13✅ |
 | 133 | [Clone Graph](dfs/0133-clone-graph.md) | DFS | Medium | 2026.03.14✅ |
+| 383 | [Ransom Note](hashmap/0383-ransom-note.md) | HashMap | Easy | 2026.03.15✅ |
 | 875 | [Koko Eating Bananas](binary-search/0875-koko-eating-bananas.md) | Binary Search | Medium | 2026.03.11✅ |
 | 994 | [Rotting Oranges](bfs/0994-rotting-oranges.md) | BFS | Medium | 2026.03.11✅ |
 | 1482 | [Minimum Days to Make m Bouquets](binary-search/1482-minimum-days-to-make-m-bouquets.md) | Binary Search | Medium | 2026.03.11✅ |
@@ -44,6 +46,7 @@ leetcode-notes/
 | 2026.03.14 | 3 | [Longest Substring Without Repeating Characters](sliding-window/0003-longest-substring-without-repeating-characters.md) | Sliding Window | Medium |
 | 2026.03.14 | 5 | [Longest Palindromic Substring](two-pointers/0005-longest-palindromic-substring.md) | Two Pointers | Medium |
 | 2026.03.14 | 133 | [Clone Graph](dfs/0133-clone-graph.md) | DFS | Medium |
+| 2026.03.15 | 383 | [Ransom Note](hashmap/0383-ransom-note.md) | HashMap | Easy |
 
 ---
 ## 💡 Key Reminders
