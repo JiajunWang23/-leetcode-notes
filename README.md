@@ -12,7 +12,8 @@ leetcode-notes/
 ├── string/
 │   └── 0008-string-to-integer-atoi.md
 ├── two-pointers/
-│   └── 0005-longest-palindromic-substring.md
+│   ├── 0005-longest-palindromic-substring.md
+│   └── 0011-container-with-most-water.md
 ├── math-greedy/
 │   └── 0012-integer-to-roman.md
 ├── dfs/
@@ -30,6 +31,7 @@ leetcode-notes/
 | 1 | [Two Sum](hashmap/0001-two-sum.md) | HashMap | Easy | 2026.03.13✅ |
 | 3 | [Longest Substring Without Repeating Characters](sliding-window/0003-longest-substring-without-repeating-characters.md) | Sliding Window | Medium | 2026.03.14✅ |
 | 8 | [String to Integer (atoi)](string/0008-string-to-integer-atoi.md) | String | Medium | 2026.03.15✅ |
+| 11 | [Container With Most Water](two-pointers/0011-container-with-most-water.md) | Two Pointers | Medium | 2026.03.15✅ |
 | 5 | [Longest Palindromic Substring](two-pointers/0005-longest-palindromic-substring.md) | Two Pointers | Medium | 2026.03.14✅ |
 | 12 | [Integer to Roman](math-greedy/0012-integer-to-roman.md) | Math / Greedy | Medium | 2026.03.13✅ |
 | 133 | [Clone Graph](dfs/0133-clone-graph.md) | DFS | Medium | 2026.03.14✅ |
@@ -51,6 +53,7 @@ leetcode-notes/
 | 2026.03.14 | 133 | [Clone Graph](dfs/0133-clone-graph.md) | DFS | Medium |
 | 2026.03.15 | 383 | [Ransom Note](hashmap/0383-ransom-note.md) | HashMap | Easy |
 | 2026.03.15 | 8 | [String to Integer (atoi)](string/0008-string-to-integer-atoi.md) | String | Medium |
+| 2026.03.15 | 11 | [Container With Most Water](two-pointers/0011-container-with-most-water.md) | Two Pointers | Medium |
 
 ---
 ## 💡 Key Reminders
